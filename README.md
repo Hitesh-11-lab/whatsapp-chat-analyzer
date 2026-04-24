@@ -58,7 +58,7 @@ text
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/WhatsApp-ML-Dashboard.git
+git clone https://github.com/hitesh-11-lab/WhatsApp-ML-Dashboard.git
 cd WhatsApp-ML-Dashboard
 2. Install dependencies
 bash
