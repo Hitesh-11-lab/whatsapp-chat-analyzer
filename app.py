@@ -35,7 +35,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ================= SIDEBAR =================
-st.sidebar.title("📊 WhatsApp Analytics + ML")
+st.sidebar.title("📊 WhatsApp Analytics")
 uploaded_file = st.sidebar.file_uploader("Upload WhatsApp Chat File")
 
 if uploaded_file is not None:
