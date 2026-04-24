@@ -2,7 +2,7 @@
 
 An end-to-end machine learning project that analyzes WhatsApp chat exports, detects sentiment & abusive language, and predicts message reply times using regression models.
 
-Demo: https://whatsapp-chat-analyzer-dfn7sj7rq77iazfmmaqkhi.streamlit.app
+Demo: https://whatsapp-chat-analyzer-dfn7sj7rq77iazfmmaqkhi.streamlit.app/
 
 ## 🚀 Features
 
